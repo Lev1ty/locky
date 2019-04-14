@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270846813107",
+    "firebase_url": "https://locky-d62d7.firebaseio.com",
+    "project_id": "locky-d62d7",
+    "storage_bucket": "locky-d62d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270846813107:android:a4062a49c13331af",
+        "android_client_info": {
+          "package_name": "com.locky.locky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270846813107-2ts8mcj4d5amc0hcflb5ol68u99qeq4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locky.locky",
+            "certificate_hash": "710821b1b6f731c66bc2ba90c29356e11805d3c6"
+          }
+        },
+        {
+          "client_id": "270846813107-opkvlm7s89muk355b737n04v3mhau2ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcH01-FFymw_ymL4bEBRTfCAC5kDP-Rw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270846813107-opkvlm7s89muk355b737n04v3mhau2ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
